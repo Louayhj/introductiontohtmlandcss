@@ -1,0 +1,15 @@
+.primary-bg {
+    background-color: red;
+  }
+  
+  .secondary-bg {
+    background-color: blue;
+  }
+  
+  .primary-text {
+    color: rgb(0, 0, 0);
+  }
+  
+  .secondary-text {
+    color: blue;
+  }

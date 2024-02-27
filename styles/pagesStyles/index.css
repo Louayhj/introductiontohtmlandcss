@@ -1,0 +1,50 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .intro {
+    background-color: rgb(21, 116, 172);
+    height: 100px;
+    height: 300px;
+  width: 100%;
+  display: inline-block;
+ 
+  }
+  .intro img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    border-radius: 80%;
+   
+  }
+  .intro h1 , h3 {
+    text-align: center;
+
+  }
+  .intro nav{
+    text-align: center;
+  }
+  .intro nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .intro nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+    color: #ffffff;
+  }
+.second-section{
+    height: 300px;
+    width: 100%;
+  background-color:rgb(47, 140, 194);
+}
+footer {
+    background-color: #1a1a1a;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
